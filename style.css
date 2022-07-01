@@ -1,0 +1,39 @@
+body 
+{
+    text-align: center;
+    background-color: black;
+}
+#wel
+{
+    font-size: 25px;
+    font-family: cursive;
+}
+h2
+{
+    font-size: 30px;
+}
+h1 
+{
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+#intro
+{
+    background-color:salmon;
+}
+#origami1
+{
+    background-color: lightcoral;
+}
+#origami2
+{
+    background-color:pink; 
+}
+.line 
+{
+    height: 5px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
